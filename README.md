@@ -4,6 +4,6 @@ This project focuses on developing an AI-based system to predict the emotions ex
 
 dataset from https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster/data
 
-cleaned dataset can be accessed here https://drive.google.com/file/d/17iUXCx1EY4BrV-7UtX1mvc3RQMRQX_t3/view?usp=sharing
+cleaned dataset https://drive.google.com/file/d/17iUXCx1EY4BrV-7UtX1mvc3RQMRQX_t3/view?usp=sharing
 
-trained model can be accessed here https://drive.google.com/file/d/1uOo7RHaWk83qvz-qETJoijmRiy0I8RCQ/view?usp=sharing
+trained model (311MB) https://drive.google.com/file/d/1uOo7RHaWk83qvz-qETJoijmRiy0I8RCQ/view?usp=sharing
